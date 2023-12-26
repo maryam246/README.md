@@ -1,6 +1,8 @@
-#Python language Introduction: Python is the general purpose dynamically typed high level language developed by Guido Van Rossum and released in 1991 at CWI Netherland.
+# Python language Introduction:
+Python is the general purpose dynamically typed high level language developed by Guido Van Rossum and released in 1991 at CWI Netherland.
 
-#Python 3 basic: operators: Pyton 3 supports a variety of operators including logical operators (And, or, Not) arithmetic operators(+,-,*,/) Comparison operators (>,<,==,!=).
+# Python 3 basic: operators:
+Pyton 3 supports a variety of operators including logical operators (And, or, Not) arithmetic operators(+,-,*,/) Comparison operators (>,<,==,!=).
 
 Variables:Python 3 the variables are created by assigning a value to a name for example , x=5 created a variable called x and assigns the value 5 to it.
 
